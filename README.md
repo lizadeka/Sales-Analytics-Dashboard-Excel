@@ -110,14 +110,15 @@ An interactive Excel dashboard was created to visualize key business metrics and
 - Classic Cars dominate revenue contribution, indicating strong demand for premium collectible segments. Opportunity exists to improve underperforming product lines.
 - Medium-sized deals contribute the highest revenue share, indicating balanced customer purchasing behavior. Focus on increasing Large deal conversions for revenue expansion.
 - Revenue is heavily concentrated in a few key customers, with Euro Shopping Channel alone contributing the highest share, indicating a strong dependency on top accounts. The rest of the customers follow a long-tail distribution with significantly lower individual contributions.
-- Majority of orders are successfully shipped, indicating strong operational efficiency. Minor proportion of cancelled/disputed orders highlights limited business risk
+- Majority of orders are successfully shipped, indicating strong operational efficiency. Minor proportion of cancelled/disputed orders highlights limited business risk.
+- A major portion of sales comes from countries where state-level segmentation does not exist or is not recorded, making country-level analysis more reliable than state-level insights for this dataset. However, state-level data is only relevant for certain countries like the USA and Australia. Within structured regions, states like NY, MA, and NSW emerge as the top revenue contributors.
 
 ---
 
 ## 📷 Dashboard Preview
 
 <img width="1152" height="595" alt="image" src="https://github.com/user-attachments/assets/b0a96edc-1c6f-45c0-93b9-15acee922391" />
-<img width="1152" height="682" alt="image" src="https://github.com/user-attachments/assets/7c6e9da0-3053-43ba-ad17-71e332402882" />
+<img width="1151" height="682" alt="image" src="https://github.com/user-attachments/assets/83c11230-ae01-4d52-9076-cb1b622b23d0" />
 
 ---
 
